@@ -1,4 +1,4 @@
-# SOC-Automation
+# Automated Incident Detection
 
 ## Objective
 
